@@ -8,13 +8,6 @@ const generalData = [
         "question": "Describe yourself?",
         "answer": [
           "My name is Faysal Ahmed Tarek. I'm from Bangladesh. My hometown is Cumilla, a city in the south-east part of Bangladesh.",
-          "As I'm passionate about programming, I chose to study and build my career in IT. Right now, I am studying Computer Science and Engineering at National University.",
-          "As for extracurricular activities, I participated in the ICPC Dhaka Regional in 2025, and I participated in an inter-university contest at DUET in 2026. I received certificates for both."
-        ]
-      },
-      {
-        "question": "What are your hobbies?",
-        "answer": [
           "My favourite hobby is playing football. I usually play as a goalkeeper. I love to play football in the evenings with my friends. It helps me stay focused and physically fit.",
           "Recently, I've been developing a new hobby of reading books, especially self-improvement books. One of my favourite books is Atomic Habits."
         ]
@@ -45,7 +38,7 @@ const generalData = [
       {
         "question": "What is your strength?",
         "answer": [
-          "My biggest strength is algorithmic problem-solving skill. I've been practising algorithmic problem-solving in our programming club for the last 1 year, and I've also taken part in two programming contests, ICPC and an inter-university contest at DUET.",
+          "My biggest strength is my algorithmic problem-solving skills. I've been practising algorithmic problem-solving in our programming club for the last 1 year, and I've also taken part in two programming contests, ICPC and an inter-university contest at DUET.",
           "Through this experience, I've learned how to understand a problem clearly, break a complex problem into smaller steps and solve it step by step. I've also learned how to work in a team under time pressure."
         ]
       },
@@ -90,7 +83,7 @@ const generalData = [
       {
         "question": "Why did you choose the Programming and Multimedia program?",
         "answer": [
-          "Six months ago, I enrolled in an online full-stack web development course, where I learned HTML, CSS, JavaScript, React, Django, and MySQL.",
+          "I enrolled in an online full-stack web development course, where I learned HTML, CSS, JavaScript, React, Django, and MySQL.",
           "During the course, I became deeply passionate about full-stack web development. The course is all about watching pre-recorded videos, so it is not interactive. Several questions came to my mind. I used Google and AI to find answers, but I was still confused about many things.",
           "That is why I decided to pursue a bachelor's degree where I can learn web development, combining academic theory with practical training.",
           "I believe this is the best bachelor's degree to become a full-stack web developer."
@@ -212,6 +205,14 @@ const generalData = [
           "Lithuanian food is simple and traditional. One of the most famous traditional dishes is cepelinai, whose main ingredients are potato and meat. Another favourite is šaltibarščiai, a bright pink, cold beetroot soup. I'm really excited to try it.",
           "Roman Catholicism is the main religious tradition in Lithuania.",
           "Basketball is the most popular sport in Lithuania."
+        ]
+      },
+      {
+        "question": "Did you compare other countries?",
+        "answer": [
+          "I've researched Germany as well. I looked at the Bachelor of Informatics at some German universities, but I found a few challenges.",
+          "First, most bachelor's programs are taught in German. Second, students need a blocked bank account before applying for a visa. And finally, the waiting time for an embassy appointment for Bangladeshi students is very long.",
+          "That's why I found Lithuania would be the best choice for me."
         ]
       }
     ]
@@ -385,7 +386,7 @@ const programData = [
       {
         "question": "What is multimedia? Examples?",
         "answer": [
-          "Multimedia is the different types of content, such as text, images, audio, video and animation, that are used in software, websites and mobile applications. Multimedia makes websites and applications more attractive, interactive, and user-friendly.",
+          "Multimedia is the different types of content, such as text, images, audio, video and animation, that are used in software, websites and mobile applications. Multimedia makes websites and applications more interactive and user-friendly. Information can be presented in a professional way using multimedia.",
           "For example, on an e-commerce website, images are used to show the product's colour, size and variants. Text is used to describe the product's name, price and size. On YouTube, videos and sound are used to explain things visually, which makes them easier to understand."
         ]
       },
